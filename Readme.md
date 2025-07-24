@@ -36,10 +36,10 @@ The dataset contains:
 
 ## 📊 Key Insights
 
-- 📈 **Top-rated books** tend to have thousands of reviews and belong to popular genres like fiction, fantasy, and young adult.  
-- 🔖 **Most common tags**: Fiction, Fantasy, Romance, Young Adult.  
-- 🏆 **Genres with highest average ratings**: Books tagged with "poetry", "historical-fiction", and "science" scored highly.  
-- 🧠 Books with **more tags tend to have slightly higher average ratings**—suggesting tagging improves discoverability and popularity.
+- 📈 **Highly tagged books** are **not** that **highly rated**.<br>
+- 🏆 Users **hardly rate** the books they designate as **to-read**.<br>
+- ✍️ The **most highly rated author** is **J.K. Rowling, Mary GrandPré**. <br>
+- 📅 The **majority of books** in this dataset were **published in the year 2012**.<br><br>
 
 ---
 
